@@ -1,3 +1,2 @@
 # randomtheme
-just trying something
-using bootstrap
+A random theme made using bootstrap,inspired by Jumbotron.
